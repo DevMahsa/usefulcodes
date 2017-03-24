@@ -2,3 +2,4 @@ I have created this repo to share some of my codes that would really help especi
 
 ffmpeg.sh ##whenever you want to convert multiple files in a folder into another format then you need this!
 rename.sh ##This code has been used by me to rename multiples files in a folder into sequential numbers. 
+mping.sh #When you want multiple ip address via ping. 
